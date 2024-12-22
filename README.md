@@ -13,8 +13,8 @@ I am a skilled Data Engineer with 2 + years of experience specializing in Data e
 And learning many more...
 
 🎓 Certifications:
-• Microsoft Certified: Azure Data Fundamentals (DP-900)
 • Databricks Certified Data Engineer Associate
+• Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 I would love to connect and learn more from you!!
 
