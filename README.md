@@ -5,7 +5,7 @@ I am a skilled Data Engineer with 2 + years of experience specializing in **Data
 🌟 Key Skills:
 - **Programming Languages**: SQL (PostgreSQL, MySQL, Oracle), Python (NumPy, Pandas, PySpark)
 - **Big Data & Distributed Systems**: Apache Spark, Kafka
-- **Cloud Platforms**: Databricks, Azure (ADF, ADLS, Synapse Analytics)
+- **Cloud Platforms**: Databricks, Azure (ADF, ADLS, Synapse Analytics), AWS(IAM, EC2, S3, Glue, Athena, Redshift)
 - **ETL & Workflow Tools**: Talend, Apache Airflow, Talend Administration Center (TAC)
 - **Data Modeling & Warehousing**: Data Warehousing Concepts, Dimensional Modeling, Data Lake Design
 - **Version Control**: GitHub (Version Control, Collaboration)
