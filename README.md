@@ -8,7 +8,7 @@ I am a skilled Data Engineer with 2 + years of experience specializing in **Data
 - **Cloud Platforms**: Databricks, Azure (ADF, ADLS, Synapse Analytics), AWS(IAM, EC2, S3, Glue, Athena, Redshift)
 - **ETL & Workflow Tools**: Talend, Apache Airflow, Talend Administration Center (TAC)
 - **Data Modeling & Warehousing**: Data Warehousing Concepts, Dimensional Modeling, Data Lake Design
-- **Version Control**: GitHub (Version Control, Collaboration)
+- **Version Control**: GitHub (Version Control, Collaboration), Azure DevOps
 
 And learning many more...
 
